@@ -1,0 +1,6 @@
+{
+  "name": "main-progress",
+  "version": "0.1.0",
+  "description": "Barre de progression de l'agent principal au-dessus du prompt, au même style que savvy-progress.",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "main-progress",
+  "owner": { "name": "BANOtech65" },
+  "plugins": [{ "name": "main-progress", "source": "./" }]
+}
